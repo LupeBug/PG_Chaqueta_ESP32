@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "420636499043",
+    "project_id": "ciclofit-dev",
+    "storage_bucket": "ciclofit-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420636499043:android:6a0fbe0b4832209ebd6c56",
+        "android_client_info": {
+          "package_name": "com.ciclofit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420636499043-cvgl8ng6l1599itf5ieu1dnle5ipdmkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlYlWQ2RsuIEb3OQY4iY7Eh0snIKYIWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420636499043-cvgl8ng6l1599itf5ieu1dnle5ipdmkh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420636499043-cvh1p0vt3vtpucb2g3kpvu6k091frdc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ciclofit.ciclofitApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420636499043:android:8b51ebfdd5cafebbbd6c56",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420636499043-cvgl8ng6l1599itf5ieu1dnle5ipdmkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlYlWQ2RsuIEb3OQY4iY7Eh0snIKYIWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420636499043-cvgl8ng6l1599itf5ieu1dnle5ipdmkh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420636499043-cvh1p0vt3vtpucb2g3kpvu6k091frdc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ciclofit.ciclofitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
